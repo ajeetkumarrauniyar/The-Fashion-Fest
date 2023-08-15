@@ -1,0 +1,150 @@
+Root:
+|
+|   index.html
+|   
++---assets
+|   |   404.png
+|   |   Contact-us.jpg
+|   |   hero.jpg
+|   |   logo.png
+|   |   payment-footer.png
+|   |   user.png
+|   |   
+|   +---favicon
+|   |       favicon.ico
+|   |       
+|   \---products-images
+|       +---kids
+|       |       1-scaled.jpg
+|       |       10-scaled.jpg
+|       |       11-scaled.jpg
+|       |       2-scaled.jpg
+|       |       3-scaled.jpg
+|       |       4-scaled.jpg
+|       |       5-scaled.jpg
+|       |       6-scaled.jpg
+|       |       7-scaled.jpg
+|       |       8-scaled.jpg
+|       |       9-scaled.jpg
+|       |       
+|       +---mens
+|       |   +---hoodies
+|       |   |       1-scaled.jpg
+|       |   |       10-scaled.jpg
+|       |   |       11-scaled.jpg
+|       |   |       12-scaled.jpg
+|       |   |       2-scaled.jpg
+|       |   |       3-scaled.jpg
+|       |   |       4-scaled.jpg
+|       |   |       5-scaled.jpg
+|       |   |       6-scaled.jpg
+|       |   |       7-scaled.jpg
+|       |   |       8-scaled.jpg
+|       |   |       9-scaled.jpg
+|       |   |       
+|       |   +---pants
+|       |   |       1-scaled.jpg
+|       |   |       10-scaled.jpg
+|       |   |       11-scaled.jpg
+|       |   |       12-scaled.jpg
+|       |   |       2-scaled.jpg
+|       |   |       3-scaled.jpg
+|       |   |       4-scaled.jpg
+|       |   |       5-scaled.jpg
+|       |   |       6-scaled.jpg
+|       |   |       7-scaled.jpg
+|       |   |       8-scaled.jpg
+|       |   |       9-scaled.jpg
+|       |   |       
+|       |   \---shirts
+|       |           men-shirt-1-scaled.jpg
+|       |           men-shirt-10-scaled.jpg
+|       |           men-shirt-11-scaled.jpg
+|       |           men-shirt-12-scaled.jpg
+|       |           men-shirt-2-scaled.jpg
+|       |           men-shirt-3-scaled.jpg
+|       |           men-shirt-4-scaled.jpg
+|       |           men-shirt-5-scaled.jpg
+|       |           men-shirt-6-scaled.jpg
+|       |           men-shirt-7-scaled.jpg
+|       |           men-shirt-8-scaled.jpg
+|       |           men-shirt-9-scaled.jpg
+|       |           
+|       \---women
+|           +---dresses
+|           |       1-1-scaled.jpg
+|           |       10-1-scaled.jpg
+|           |       11-1-scaled.jpg
+|           |       12-1-scaled.jpg
+|           |       2-1-scaled.jpg
+|           |       3-1-scaled.jpg
+|           |       4-1-scaled.jpg
+|           |       5-1-scaled.jpg
+|           |       6-1-scaled.jpg
+|           |       7-1-scaled.jpg
+|           |       8-1-scaled.jpg
+|           |       9-1-scaled.jpg
+|           |       
+|           +---pants
+|           |       1-2-scaled.jpg
+|           |       10-2-scaled.jpg
+|           |       11-2-scaled.jpg
+|           |       12-2-scaled.jpg
+|           |       2-2-scaled.jpg
+|           |       3-2-scaled.jpg
+|           |       4-2-scaled.jpg
+|           |       5-2-scaled.jpg
+|           |       6-2-scaled.jpg
+|           |       7-2-scaled.jpg
+|           |       8-2-scaled.jpg
+|           |       9-2-scaled.jpg
+|           |       
+|           \---skirts
+|                   1-scaled.jpg
+|                   10-scaled.jpg
+|                   11-scaled.jpg
+|                   12-scaled.jpg
+|                   2-scaled.jpg
+|                   3-scaled.jpg
+|                   4-scaled.jpg
+|                   5-scaled.jpg
+|                   6-scaled.jpg
+|                   7-scaled.jpg
+|                   8-scaled.jpg
+|                   9-scaled.jpg
+|                   
++---css
+|       style.css
+|       
++---includes
+|       footer.html
+|       header.html
+|       
++---js
+|       script.js
+|       
++---other-pages
+|       404.html
+|       cart.html
+|       contact-us.html
+|       login.html
+|       
+\---Products-Pages
+    +---All Products
+    |       products-all.html
+    |       
+    +---Kids Product
+    |       all-kids-product.html
+    |       
+    +---Men Product
+    |       all-men-products.html
+    |       men-hoodies.html
+    |       men-pants.html
+    |       men-shirts.html
+    |       
+    \---Women Product
+            all-women-products.html
+            women-dresses.html
+            women-pants.html
+            women-skirts.html
+            
